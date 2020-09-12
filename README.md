@@ -1,2 +1,2 @@
 # coursera-webdev
-Coursera web devlopment John Hopkins University
+Coursera web development Johns Hopkins University
